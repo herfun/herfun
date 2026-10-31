@@ -1,4 +1,4 @@
-# Hi, I'm Herfun 👋
+# Hi, I'm Hefou 👋
 
 This is my alternate GitHub account for experimental prototypes and test projects.
 
@@ -15,4 +15,4 @@ This is my alternate GitHub account for experimental prototypes and test project
 - Small experimental code demos
 
 ## Connect
-- Discord: herfun
+- Discord: hefou
